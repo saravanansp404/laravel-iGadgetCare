@@ -9,7 +9,7 @@
 <div class="iserv-service">
 <div class="container">
 <div class="col-md-4 center">
-    <img src="../images/iser/s1.png">
+    <img src="../images/iser/display.jpg">
    
 </div>
 <div class="col-md-4 center ">
@@ -17,7 +17,7 @@
    
 </div>
 <div class="col-md-4 center ">
-    <img src="../images/iser/s3.png">
+    <img src="../images/iser/hardware.png">
    
 </div>
 

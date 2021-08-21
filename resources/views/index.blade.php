@@ -345,7 +345,7 @@
                 data-endspeed="1200"
                 data-endeasing="Power4.easeIn"><div class="outer-box">
                     <p>Problem in MacBook? </p>
-                    <h3>Have Trouble in Your MacBook <br> No Worries, iService Point is the<br> Right Place to Fix</h3>    
+                    <h3>Have Trouble in Your MacBook <br> No Worries, i Gadget Care is the<br> Right Place to Fix</h3>    
                 </div></div>
                 
             </li>
@@ -368,15 +368,15 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
       <div class="item active">
-        <img src="images/mobile/mob1.png" alt="iService Point" style="width:100%;">
+        <img src="images/mobile/mob1.png" alt="i Gadget Care" style="width:100%;">
       </div>
 
       <div class="item">
-        <img src="images/mobile/mob2.png" alt="iService Point" style="width:100%;">
+        <img src="images/mobile/mob2.png" alt="i Gadget Care" style="width:100%;">
       </div>
     
       <div class="item">
-        <img src="images/mobile/mob3.png" alt="iService Point" style="width:100%;">
+        <img src="images/mobile/mob3.png" alt="i Gadget Care" style="width:100%;">
       </div>
     </div>
 
@@ -402,7 +402,7 @@
                 <div class="wow fadeIn" data-wow-duration="2s" data-wow-delay="0.5s" data-wow-offset="0" style="visibility: visible; animation-duration: 2s; animation-delay: 0.5s; animation-name: fadeIn;">
                     <div class="post-content">
                         <div class="section-title">
-                            <h2>Welcome To <span>iService Point</span> </h2>
+                            <h2>Welcome To <span>i Gadget Care</span> </h2>
                         </div>
                         <div class="text">
                             <p>We are specialized in servicing all types of devices that include iPhone, iPod, iPad, MAC, android, smart-phones, basic mobiles, desktops, tablets, laptops etc., We value each and every customer and we deliver the service right on time. Our service technicians are well trained and expert in servicing all types of devices. </p>
@@ -787,7 +787,7 @@
             <div class="column col-md-9 col-sm-12 col-xs-12">
                 <div class="text-left clearfix">
                     <h2>Problem in Gadgets ?</h2>
-                    <p>iService Point is the right place  <br> to fix your gadgets, book a doorstep service for your gadgets .</p>
+                    <p>i Gadget Care is the right place  <br> to fix your gadgets, book a doorstep service for your gadgets .</p>
                 </div>
                     
             </div>
@@ -806,7 +806,7 @@
 <div id="small-dialog" class="mfp-hide">
     <div class="pop_up w3-agile">
       <div class="iservice-pop">
-      <h4>iService Point Customer Login</h4>
+      <h4>i Gadget Care Customer Login</h4>
       <form method="POST" action="{{ route('login') }}">
                         @csrf
 

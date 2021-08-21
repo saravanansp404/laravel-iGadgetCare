@@ -49,7 +49,7 @@ echo "<script>alert('Sorry Try Again');</script>";
 
 <head>
     <meta charset="UTF-8">
-    <title>Contact iservice point | call iservice point bangalore | macbook service center near me | iservice point address | book online gadgets repair </title>
+    <title>Contact i Gadget Care | call i Gadget Care bangalore | macbook service center near me | i Gadget Care address | book online gadgets repair </title>
 
     <!-- mobile responsive meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -135,7 +135,7 @@ echo "<script>alert('Sorry Try Again');</script>";
                         </div>
                         <div class="content">
                             <!-- <h4><a href="#">Address</a></h4> -->
-                            <p><a href="">#1023, first floor ,80 feet road , 1st block, koramangla, Bangalore - 560095</a></p>
+                            <p><a href="">address</a></p>
                         </div>
                     </div>
                 </div>

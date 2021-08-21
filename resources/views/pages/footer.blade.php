@@ -1,7 +1,7 @@
 <footer>
 
 <div class="copy-right">
-      <p>   Copyright © iService Point 2021 | Powered by <a href="http://edcloudsolution.com"target="_blank"> Ed<span>Cloud </span></a> </p>
+      <p>   Copyright © i Gadget Care 2021 | Powered by <a href="http://edcloudsolution.com"target="_blank"> Ed<span>Cloud </span></a> </p>
 </div>
 
  </footer>    

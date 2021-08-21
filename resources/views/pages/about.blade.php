@@ -1,6 +1,6 @@
 @include('pages.menu')
     <div class="banner">
-        <img src="../images/background/iservice-about.png" alt="About iService Point - iphone service center bangalore" title="apple service center near me">
+        <img src="../images/background/iservice-about.png" alt="About i Gadget Care - iphone service center bangalore" title="apple service center near me">
     </div>
 
 
@@ -8,7 +8,7 @@
     <div class="container">
         <div class="col-md-6">
             <h2>Who We Are</h2>
-            <p>iService Point is a trusted gadget servicing center located at kormangala in bangalore. We are specialized in servicing all types of devices that include iPhone, iPod, iPad, Macbook, android, smart-phones, basic mobiles, desktops, tablets, laptops etc., We value each and every customer and you can also book a doorstep service, we will deliver the serviced products right on time. 
+            <p>i Gadget Care is a trusted gadget servicing center located at kormangala in bangalore. We are specialized in servicing all types of devices that include iPhone, iPod, iPad, Macbook, android, smart-phones, basic mobiles, desktops, tablets, laptops etc., We value each and every customer and you can also book a doorstep service, we will deliver the serviced products right on time. 
             Our service technicians are well trained and expert in servicing all types of devices and make them reusable as before.
             Customer satisfaction to us is our motto and we make sure that our customer are satisfied with our service.
             </p>
